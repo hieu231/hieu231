@@ -1,6 +1,6 @@
 # main.py
 from tkinter import Tk, messagebox
-from trangchu import CongViecForm  # Đảm bảo nhập khẩu đúng class TrangChu từ trangchu.py
+from trangchu import CongViecForm  
 
 class MyApp:
     def __init__(self, root):
